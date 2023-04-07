@@ -294,20 +294,6 @@ body {
   color: #6c7b88;
 }
 
-/* .main .sidebar-footer {
-  background: #3a3f48;
-  box-shadow: 0px -1px 5px #282c33;
-  border-top: 1px solid #464a52;
-}
-  
-.main .sidebar-footer>a:first-child {
-  border-left: none;
-}
-  
-.main .sidebar-footer>a:last-child {
-  border-right: none;
-} */
-
 /*-----------------------------Header Topbar-------------------------------------------------*/
 header.topbar-dashboard {
   padding: 0px 20px;
