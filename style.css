@@ -1135,7 +1135,6 @@ section.projects-stats-chart {
   margin: 0px !important;
   list-style: none;
   display: flex;
-  /* justify-content: space-between; */
   align-items: center;
   font-weight: 600;
 }
