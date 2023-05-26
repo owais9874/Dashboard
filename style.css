@@ -34,9 +34,11 @@ body {
   width: 35px;
   transition-delay: 0.3s;
 }
+
 .page-wrapper.toggled #show-sidebar {
   left: -40px;
 }
+
 .sidebar-btn {
   padding: 10px;
   color: #ffffff;
